@@ -9,3 +9,4 @@ Added 2nd texts
 ## Local Dev File
 
 1. Open index.html in browser.
+2. Test conflict commit Lorem
